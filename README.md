@@ -1,0 +1,5 @@
+# Sport Programming
+
+During my time with the academia, sport programming was one of the most (if not the only) useful and rewarding thing I had a chance to do. In midst of innumerable course assignments and exams, it was a wonderful change of pace to be able to learn something because it was fun and not because there is an exam on it a week later. Not only does this still help me do my everyday work, the culture and community surrounding sport programming, to an extent, has helped me become who I am today. I can never thank [Tarif Ezaz](https://github.com/TarifEzaz) enough for introducing me to this. Eventually I stopped practicing problem solving - after my graduation, but I still feel the benefits of it every day.
+
+This repository has a small chunk of solutions that I coded for programming problems I solved during those few years and some other resources. Sadly I lost a lot of these stuff over the last couple of years. Things were a lot simpler back then and you may not even find anything worth while in here, but it's better to have this repository out in the open than tucked away in some backup storage.
